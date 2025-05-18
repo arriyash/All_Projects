@@ -1,0 +1,42 @@
+C:\Users\dell\source\repos\newproject1\newproject1\bin\Debug\newproject1.exe.config
+C:\Users\dell\source\repos\newproject1\newproject1\bin\Debug\newproject1.exe
+C:\Users\dell\source\repos\newproject1\newproject1\bin\Debug\newproject1.pdb
+C:\Users\dell\source\repos\newproject1\newproject1\obj\Debug\newproject1.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\newproject1\newproject1\obj\Debug\newproject1.Form1.resources
+C:\Users\dell\source\repos\newproject1\newproject1\obj\Debug\newproject1.Properties.Resources.resources
+C:\Users\dell\source\repos\newproject1\newproject1\obj\Debug\newproject1.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\newproject1\newproject1\obj\Debug\newproject1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\newproject1\newproject1\obj\Debug\newproject1.exe
+C:\Users\dell\source\repos\newproject1\newproject1\obj\Debug\newproject1.pdb
+C:\Users\dell\source\repos\newproject1\newproject1\obj\Debug\newproject1.Form2.resources
+C:\Users\dell\source\repos\newproject1\newproject1\obj\Debug\newproject1.Form4.resources
+C:\Users\dell\source\repos\newproject1\newproject1\obj\Debug\newproject1.Form3.resources
+C:\Users\dell\source\repos\newproject1\newproject1\obj\Debug\newproject1.Form5.resources
+C:\Users\dell\Desktop\newproject1\newproject1\bin\Debug\newproject1.exe.config
+C:\Users\dell\Desktop\newproject1\newproject1\bin\Debug\newproject1.exe
+C:\Users\dell\Desktop\newproject1\newproject1\bin\Debug\newproject1.pdb
+C:\Users\dell\Desktop\newproject1\newproject1\obj\Debug\newproject1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\newproject1\newproject1\obj\Debug\newproject1.Form1.resources
+C:\Users\dell\Desktop\newproject1\newproject1\obj\Debug\newproject1.Form2.resources
+C:\Users\dell\Desktop\newproject1\newproject1\obj\Debug\newproject1.Form3.resources
+C:\Users\dell\Desktop\newproject1\newproject1\obj\Debug\newproject1.Form4.resources
+C:\Users\dell\Desktop\newproject1\newproject1\obj\Debug\newproject1.Form5.resources
+C:\Users\dell\Desktop\newproject1\newproject1\obj\Debug\newproject1.Properties.Resources.resources
+C:\Users\dell\Desktop\newproject1\newproject1\obj\Debug\newproject1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\newproject1\newproject1\obj\Debug\newproject1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\newproject1\newproject1\obj\Debug\newproject1.exe
+C:\Users\dell\Desktop\newproject1\newproject1\obj\Debug\newproject1.pdb
+C:\Users\dell\Desktop\HND CYBER SECU\newproject1\newproject1\bin\Debug\newproject1.exe.config
+C:\Users\dell\Desktop\HND CYBER SECU\newproject1\newproject1\bin\Debug\newproject1.exe
+C:\Users\dell\Desktop\HND CYBER SECU\newproject1\newproject1\bin\Debug\newproject1.pdb
+C:\Users\dell\Desktop\HND CYBER SECU\newproject1\newproject1\obj\Debug\newproject1.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\HND CYBER SECU\newproject1\newproject1\obj\Debug\newproject1.Form1.resources
+C:\Users\dell\Desktop\HND CYBER SECU\newproject1\newproject1\obj\Debug\newproject1.Form2.resources
+C:\Users\dell\Desktop\HND CYBER SECU\newproject1\newproject1\obj\Debug\newproject1.Form3.resources
+C:\Users\dell\Desktop\HND CYBER SECU\newproject1\newproject1\obj\Debug\newproject1.Form4.resources
+C:\Users\dell\Desktop\HND CYBER SECU\newproject1\newproject1\obj\Debug\newproject1.Form5.resources
+C:\Users\dell\Desktop\HND CYBER SECU\newproject1\newproject1\obj\Debug\newproject1.Properties.Resources.resources
+C:\Users\dell\Desktop\HND CYBER SECU\newproject1\newproject1\obj\Debug\newproject1.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\HND CYBER SECU\newproject1\newproject1\obj\Debug\newproject1.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\HND CYBER SECU\newproject1\newproject1\obj\Debug\newproject1.exe
+C:\Users\dell\Desktop\HND CYBER SECU\newproject1\newproject1\obj\Debug\newproject1.pdb
